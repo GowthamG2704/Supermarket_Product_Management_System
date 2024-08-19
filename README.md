@@ -9,6 +9,12 @@ This Python project allows users to interact with a MySQL database to manage a s
 - **View Cart**: Displays the list of products currently in the cart along with their details.
 - **Checkout**: Finalizes the purchase and updates the database accordingly.
 
+## Languages Used
+
+- Python
+- MySQL
+
+  
 ## Requirements
 
 - Python 3.x
