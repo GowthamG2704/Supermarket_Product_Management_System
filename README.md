@@ -3,6 +3,11 @@
 
 This Python project allows users to interact with a MySQL database to manage a shopping cart. It supports adding products to the cart and checking out, among other functionalities.
 
+# Description:
+
+The **"Supermarket Product Management System"** is a Python-based application designed to streamline the management of supermarket inventory and sales operations. This system enables efficient tracking and processing of products, from adding items to a virtual cart to managing stock levels and generating sales reports. By integrating with a MySQL database, the system ensures accurate and up-to-date information on product availability, pricing, and sales performance, making it an essential tool for supermarket management.
+
+
 ## Features
 
 - **Add Products to Cart**: Users can add products by specifying the product name and quantity. The script checks the availability of the product in the database.
