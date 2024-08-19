@@ -54,6 +54,9 @@ The **"Supermarket Product Management System"** is a Python-based application de
 - Ensure the MySQL database is set up with the required schema and data before running the script.
 - The script includes basic error handling for common issues like invalid product names or insufficient stock.
 
+## Project Presentation
+  Link : https://drive.google.com/file/d/1Q0TWsOmntlk4BOZEY4FXYJf6H3UXj23p/view
+
 ## License
 
 This project is licensed under the MIT License.
