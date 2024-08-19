@@ -1,0 +1,8 @@
+Order_id,Product_id,Product_Name,Unit_Sold,Total_Cost
+58d58aad-40a4-4ff6-b3df-7732b4d93b81,MG4765,Jelly,2,90
+58d58aad-40a4-4ff6-b3df-7732b4d93b81,MG4765,Pens,2,90
+f3bbfa26-ecfc-4847-9a4a-8211f23ffbbe,MG4765,Corn,2,120
+f3bbfa26-ecfc-4847-9a4a-8211f23ffbbe,MG4765,Pens,2,120
+9a038da3-7b91-4893-9037-901345df13c2,MG4758,Rice,3,300
+0b331c49-8dc9-4173-a18d-2a4fdd10caeb,MG4763,Glue,1,30
+a3cee940-5a65-4730-9505-a98e9ba720ef,MG4763,Glue,5,150
